@@ -1,4 +1,4 @@
-### Salute 👋
+### Salut 👋
 
 <!--
 **iustiniandev07/iustiniandev07** este un ✨ web-developer ✨ si are experienta de peste 2 ani.
